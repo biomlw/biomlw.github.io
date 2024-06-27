@@ -1,2 +1,2 @@
-# biomlw.github.io
+# bioml
 Bioinspired Machine Learning Workshop

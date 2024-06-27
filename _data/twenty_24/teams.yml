@@ -1,0 +1,44 @@
+- title: Gianfranco Doretto
+  name: Doretto
+  subtitle: West Virginia University
+  img: gianfranco.jpg
+  thumbnail: gianfranco.jpg
+  alt: Picture of Gianfranco Doretto
+  topic: Topic
+  description: Workshop Chair and Professor in the Lane Department of Computer Science and Electrical Engineering at West Virginia University<br><b>Personal Website</b> <a href="https://vision.csee.wvu.edu/">https://vision.csee.wvu.edu/</a>
+
+- title: Don Adjeroh
+  name: Adjeroh
+  subtitle: West Virginia University
+  img: adjeroh.jpg
+  thumbnail: adjeroh.jpg
+  alt: Picture of Don Adjeroh
+  topic: Topic
+  description: Professor in the Lane Department of Computer Science and Electrical Engineering at West Virginia University<br><b>Personal Website</b> <a href="https://community.wvu.edu/~daadjeroh/">https://community.wvu.edu/~daadjeroh/</a>
+
+- title: Gary Marsat
+  name: Marsat
+  subtitle: West Virginia University
+  img: marsat.jpg
+  thumbnail: marsat.jpg
+  alt: Picture of Gary Marsat
+  topic: Topic
+  description: Associate Professor in the Department of Biology at West Virginia University<br><b>Personal Website</b> <a href="https://sites.google.com/site/garymarsat/">https://sites.google.com/site/garymarsat/</a>
+
+- title: Nicholas Szczecinski
+  name: Szczecinski
+  subtitle: West Virginia University
+  img: nick.jpg
+  thumbnail: nick.jpg
+  alt: Picture of Nicholas Szczecinski
+  topic: Topic
+  description: Assistant Professor in the Department of Mechanical, Materials and Aerospace Engineering at West Virginia University<br><b>Personal Website</b> <a href="https://nicholasszczecinski.faculty.wvu.edu/">https://nicholasszczecinski.faculty.wvu.edu/</a>
+
+- title: Thi Hoang Ngan Le
+  name: Le
+  subtitle: University of Arkansas
+  img: nganle.jpg
+  thumbnail: nganle.jpg
+  alt: Picture of Thi Hoang Ngan Le
+  topic: Topic
+  description: Assistant Professor in the Department of Computer Science and Computer Engineering at the University of Arkansas<br><b>Personal Website</b> <a href="https://uark-aicv.github.io/">https://uark-aicv.github.io/</a>

@@ -1,0 +1,17 @@
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
+
+- inverted: 
+  img: icon-team.jpeg
+  name: Organizers
+  info: Find out the workshop organizers
+  link: /organizers
+
+- inverted: timeline-inverted
+  img: icon-venue.jpeg
+  name: Venue
+  info: Learn more about our location
+  link: /venue

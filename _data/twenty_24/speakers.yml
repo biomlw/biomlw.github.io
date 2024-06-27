@@ -1,0 +1,44 @@
+- title: Sergiy Yakovenko
+  name: Yakovenko
+  subtitle: West Virginia University
+  img: yakovenko.jpg
+  thumbnail: yakovenko.jpg
+  alt: Picture of Sergiy Yakovenko
+  topic: TBD
+  description: More Info.<br><b>Personal Website</b> <a href="https://sites.google.com/site/neuralengineeringlab/">https://sites.google.com/site/neuralengineeringlab/</a>
+
+- title: Drew Linsley
+  name: Linsley
+  subtitle: Brown University
+  img: linsley.jpg
+  thumbnail: linsley.jpg
+  alt: Picture of Drew Linsley
+  topic: TBD
+  description: More Info.<br><b>Personal Website</b> <a href="https://sites.brown.edu/drewlinsley/">https://sites.brown.edu/drewlinsley/</a>
+
+- title: Benjamin Grewe
+  name: Grewe
+  subtitle: ETH Zurich
+  img: grewe.jpg
+  thumbnail: grewe.jpg
+  alt: Picture of Benjamin Grewe
+  topic: Topic
+  description: More Info.<br><b>Personal Website</b> <a href="https://grewelab.org/biography/">https://grewelab.org/biography/</a>
+
+- title: Daniel Yamins
+  name: Yamins
+  subtitle: Stanford University
+  img: yamins.jpg
+  thumbnail: yamins.jpg
+  alt: Picture of Daniel Yamins
+  topic: Topic
+  description: More Info.<br><b>Personal Website</b> <a href="https://stanford.edu/~yamins/">https://stanford.edu/~yamins/</a>
+
+- title: Mary-Anne Hartley
+  name: Hartley
+  subtitle: Yale University
+  img: hartley.jpg
+  thumbnail: hartley.jpg
+  alt: Picture of Mary-Anne Hartley
+  topic: Topic
+  description: More Info.<br><b>Personal Website</b> <a href="https://www.yale-light.org/">https://www.yale-light.org/</a>
